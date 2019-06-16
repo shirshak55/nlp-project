@@ -29,3 +29,7 @@ Most folder are gitignored so manual creation should be done
 Preprocess which add start and end token
 Train the data
 Test the image from test dir
+
+```bash
+python test.py image_name
+```
